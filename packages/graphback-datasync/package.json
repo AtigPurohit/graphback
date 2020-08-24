@@ -31,12 +31,12 @@
     "access": "public"
   },
   "devDependencies": {
-    "@types/jest": "26.0.9",
+    "@types/jest": "26.0.10",
     "@types/node": "12.12.54",
     "graphql": "15.3.0",
     "jest": "26.4.2",
     "jest-date-mock": "1.0.8",
-    "mongodb-memory-server": "6.6.3",
+    "mongodb-memory-server": "6.6.4",
     "rimraf": "3.0.2",
     "ts-jest": "26.2.0",
     "ts-node": "8.10.2",

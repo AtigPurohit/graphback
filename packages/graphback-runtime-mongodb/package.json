@@ -32,12 +32,12 @@
   },
   "devDependencies": {
     "@graphback/codegen-schema": "0.15.1",
-    "@types/jest": "26.0.9",
+    "@types/jest": "26.0.10",
     "@types/node": "12.12.54",
     "graphql": "15.3.0",
     "jest": "26.4.2",
     "jest-date-mock": "1.0.8",
-    "mongodb-memory-server-global": "6.6.3",
+    "mongodb-memory-server-global": "6.6.4",
     "rimraf": "3.0.2",
     "ts-jest": "26.2.0",
     "ts-node": "8.10.2",
@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "@graphback/core": "0.15.1",
-    "@types/mongodb": "3.5.25",
+    "@types/mongodb": "3.5.26",
     "dataloader": "2.0.0",
     "escape-string-regexp": "4.0.0",
     "graphql-metadata": "0.7.6",
